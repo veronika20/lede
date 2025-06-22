@@ -1,9 +1,0 @@
-noipdefault
-noauth
-nobsdcomp
-nodeflate
-idle 0
-nomppe-40
-require-mppe-128
-nomppe-stateful
-maxfail 0
